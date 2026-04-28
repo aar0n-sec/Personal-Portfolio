@@ -1,16 +1,212 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A modern, responsive, multi-page developer portfolio built to showcase my projects, skills, and cybersecurity-focused work.
 
-Currently, two official plugins are available:
+## Live Demo
+🔗 [View Portfolio](https://your-deployment-link.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio was designed as a professional digital presence to present:
 
-## Expanding the ESLint configuration
+- My projects and case studies  
+- Technical skills and tools  
+- Cybersecurity and development interests  
+- Contact and collaboration opportunities  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built with a modern UI, smooth interactions, and responsive layouts for desktop and mobile.
+
+---
+
+## Features
+
+✅ Multi-page architecture  
+✅ Responsive design  
+✅ Modern animated UI  
+✅ Project showcase section  
+✅ Skills & tech stack section  
+✅ Contact section  
+✅ Fast performance  
+✅ Clean component structure  
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+**Styling**
+- Tailwind CSS 
+- Custom animations
+
+**Version Control**
+- Git
+- GitHub
+
+---
+
+## Project Structure
+
+```bash
+Personal-Portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/aar0n-sec/Personal-Portfolio.git
+```
+
+Move into the project:
+
+```bash
+cd Personal-Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## Screenshots
+
+Add screenshots here:
+
+### Homepage
+![Homepage Screenshot](./screenshots/home.png)
+
+### Projects Section
+![Projects Screenshot](./screenshots/projects.png)
+
+---
+
+## Featured Sections
+
+### About Me
+Brief introduction and background.
+
+### Projects
+Highlighted development and cybersecurity projects.
+
+### Skills
+Technologies, tools, and areas of focus.
+
+### Contact
+Ways to connect and collaborate.
+
+---
+
+## Goals of This Project
+
+This portfolio was built to:
+
+- Showcase technical capability  
+- Strengthen professional presence  
+- Demonstrate frontend development skills  
+- Serve as a foundation for continuous improvement  
+
+---
+
+## Future Improvements
+
+- Dark/Light theme toggle  
+- Blog section  
+- Project filtering  
+- Backend-powered contact form  
+- CMS integration  
+- Performance optimization  
+
+---
+
+## Deployment
+
+Can be deployed on:
+
+- Vercel
+- Netlify
+- GitHub Pages
+
+---
+
+## Contributing
+
+Suggestions and improvements are welcome.
+
+1. Fork repository  
+2. Create feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push branch
+
+```bash
+git push origin feature-name
+```
+
+5. Open Pull Request
+
+---
+
+## Author
+
+**Aaron**  
+GitHub: https://github.com/aar0n-sec
+
+---
+
+## License
+
+This project is licensed under the MIT License.
